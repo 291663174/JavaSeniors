@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Annotation.iml" filepath="$PROJECT_DIR$/Annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Collection/Collection.iml" filepath="$PROJECT_DIR$/../Collection/Collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CollectionTest/CollectionTest.iml" filepath="$PROJECT_DIR$/../CollectionTest/CollectionTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CollectionsTest/CollectionsTest.iml" filepath="$PROJECT_DIR$/../CollectionsTest/CollectionsTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../File/File.iml" filepath="$PROJECT_DIR$/../File/File.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../GenericTest/GenericTest.iml" filepath="$PROJECT_DIR$/../GenericTest/GenericTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../IOStream/IOStream.iml" filepath="$PROJECT_DIR$/../IOStream/IOStream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Lambda/Lambda.iml" filepath="$PROJECT_DIR$/../Lambda/Lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Map/Map.iml" filepath="$PROJECT_DIR$/../Map/Map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../NetAddress/NetAddress.iml" filepath="$PROJECT_DIR$/../NetAddress/NetAddress.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Proxy/Proxy.iml" filepath="$PROJECT_DIR$/../Proxy/Proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Reflection/Reflection.iml" filepath="$PROJECT_DIR$/../Reflection/Reflection.iml" />
+    </modules>
+  </component>
+</project>

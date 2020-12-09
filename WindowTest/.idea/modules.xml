@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BankTest/BankTest.iml" filepath="$PROJECT_DIR$/BankTest/BankTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Communication/Communication.iml" filepath="$PROJECT_DIR$/Communication/Communication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lock/Lock.iml" filepath="$PROJECT_DIR$/Lock/Lock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadPool/ThreadPool.iml" filepath="$PROJECT_DIR$/ThreadPool/ThreadPool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WindoTest1/WindoTest1.iml" filepath="$PROJECT_DIR$/WindoTest1/WindoTest1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WindowTest.iml" filepath="$PROJECT_DIR$/WindowTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WindowTest2/WindowTest2.iml" filepath="$PROJECT_DIR$/WindowTest2/WindowTest2.iml" />
+    </modules>
+  </component>
+</project>

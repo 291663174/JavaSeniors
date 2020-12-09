@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5418fd75-0faf-4633-8993-01d16210389f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\LocalRepository" />
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.1\plugins\maven\lib\maven3" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hljYtTroTlyXHazBZ9lONckC9a" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="JUnit.StringDemo.testReverse">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringBufferBuilderTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="StringTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="StringBufferBuilderTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringBufferBuilderTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="StringTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="StringBufferBuilderTest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringBufferBuilderTest.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="StringTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="StringBufferBuilderTest" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringDemo.testReverse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AfterStringTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="StringDemo" />
+      <option name="METHOD_NAME" value="testReverse" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringMethodTest.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="StringTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="StringMethodTest" />
+      <option name="METHOD_NAME" value="test4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.StringDemo.testReverse" />
+        <item itemvalue="JUnit.StringBufferBuilderTest.test3" />
+        <item itemvalue="JUnit.StringBufferBuilderTest.test1" />
+        <item itemvalue="JUnit.StringBufferBuilderTest.test2" />
+        <item itemvalue="JUnit.StringMethodTest.test4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5418fd75-0faf-4633-8993-01d16210389f" name="Default Changelist" comment="" />
+      <created>1600592624534</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600592624534</updated>
+      <workItem from="1600592625667" duration="6210000" />
+      <workItem from="1600608216525" duration="400000" />
+      <workItem from="1600608620574" duration="38000" />
+      <workItem from="1600608661606" duration="13000" />
+      <workItem from="1600608699100" duration="2000" />
+      <workItem from="1600608847963" duration="9182000" />
+      <workItem from="1600655502702" duration="19150000" />
+      <workItem from="1600701007826" duration="1011000" />
+      <workItem from="1600781812169" duration="1611000" />
+      <workItem from="1600828656876" duration="2042000" />
+      <workItem from="1600840998234" duration="1440000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="0" key="#Project_Structure" timestamp="1600842397979">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="0" y="0" key="#Project_Structure/0.0.1366.738@0.0.1366.738" timestamp="1600842397979" />
+    <state x="0" y="169" key="#com.intellij.ide.util.MemberChooser" timestamp="1600610406604">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="0" y="169" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1600610406604" />
+    <state x="339" y="84" key="FileChooserDialogImpl" timestamp="1600841959970">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="339" y="84" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1600841959970" />
+    <state width="1323" height="227" key="GridCell.Tab.0.bottom" timestamp="1600842227201">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1600842227201" />
+    <state width="1323" height="227" key="GridCell.Tab.0.center" timestamp="1600842227199">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1600842227199" />
+    <state width="1323" height="227" key="GridCell.Tab.0.left" timestamp="1600842227198">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1600842227198" />
+    <state width="1323" height="227" key="GridCell.Tab.0.right" timestamp="1600842227200">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1600842227200" />
+    <state width="1323" height="227" key="GridCell.Tab.1.bottom" timestamp="1600842227203">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1600842227203" />
+    <state width="1323" height="227" key="GridCell.Tab.1.center" timestamp="1600842227202">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1600842227202" />
+    <state width="1323" height="227" key="GridCell.Tab.1.left" timestamp="1600842227202">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1600842227202" />
+    <state width="1323" height="227" key="GridCell.Tab.1.right" timestamp="1600842227203">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1600842227203" />
+    <state x="178" y="0" key="SettingsEditor" timestamp="1600842222225">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="178" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1600842222225" />
+    <state x="381" y="471" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1600841806988">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="381" y="471" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.738@0.0.1366.738" timestamp="1600841806988" />
+    <state x="66" y="184" width="1251" height="509" key="new project wizard" timestamp="1600842392722">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="66" y="184" width="1251" height="509" key="new project wizard/0.0.1366.738@0.0.1366.738" timestamp="1600842392722" />
+  </component>
+</project>
